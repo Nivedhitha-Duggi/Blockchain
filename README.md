@@ -7,17 +7,17 @@ All the projects were run on the Ethereum Ubuntu Virtual Machine.
 
 Decentralized applications are a piece of so ware that communicates with the blockchain, which manages the state of all network actors. The DApps that I created are as follows:
 
-* [Auction](https://github.com/Nivedhitha-DuggiBlockchain/tree/master/Decentralized%20Applications/Auction%20Project)
-* [Ballot](https://github.com/Nivedhitha-Duggi/Blockchain/tree/master/Decentralized%20Applications/Ballot%202)
-* [Coin](https://github.com/Nivedhitha-Duggi/Blockchain/tree/master/Decentralized%20Applications/Coin)
+* [Auction](https://github.com/Nivedhitha-DuggiBlockchain/tree/main/Decentralized%20Applications/Auction%20Project)
+* [Ballot](https://github.com/Nivedhitha-Duggi/Blockchain/tree/main/Decentralized%20Applications/Ballot%202)
+* [Coin](https://github.com/Nivedhitha-Duggi/Blockchain/tree/main/Decentralized%20Applications/Coin)
 
 ## Smart Contracts
 
 A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code. The smart contracts that I created are:
 
-* [Inbox](https://github.com/Nivedhitha-Duggi/Blockchain/blob/master/Smart%20Contracts/inbox/contracts/Inbox.sol)
-* [Lottery](https://github.com/Nivedhitha-Duggi/Blockchain/blob/master/Smart%20Contracts/lottery/contracts/Lottery.sol)
-* [Campaign](https://github.com/Nivedhitha-Duggi/Blockchain/blob/master/Smart%20Contracts/kickstart/ethereum/contracts/Campaign.sol)
+* [Inbox](https://github.com/Nivedhitha-Duggi/Blockchain/blob/main/Smart%20Contracts/inbox/contracts/Inbox.sol)
+* [Lottery](https://github.com/Nivedhitha-Duggi/Blockchain/blob/main/Smart%20Contracts/lottery/contracts/Lottery.sol)
+* [Campaign](https://github.com/Nivedhitha-Duggi/Blockchain/blob/main/Smart%20Contracts/kickstart/ethereum/contracts/Campaign.sol)
 
 ## Tools & Links
 
